@@ -1,11 +1,11 @@
 """
 =============================================================
   MOTION PLANNING - DIJKSTRA'S ALGORITHM
-  Studi Kasus: Lab Robotika Polibatam
+  Studi Kasus: Lab Robotika 
   Robot: Jethexa Hexapod Robot
   Grid: 20x20
-  Nama Mahasiswa: [NAMA ANDA]
-  NIM: [NIM ANDA]
+  Nama Mahasiswa: Emiya Rehulina Br Ginting
+  NIM: 4222301001
 =============================================================
 """
 
